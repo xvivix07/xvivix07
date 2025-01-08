@@ -1,6 +1,6 @@
-<h1 align="center">🌸 Hello, I'm Vivien 🌸</h1>
+<h1 align="center" style="color: #A0C4FF;">🌸 Hello, I'm Vivien 🌸</h1>
 
-<p align="center">
+<p align="center" style="color: #A0C4FF;">
   🌿 *Welcome to my GitHub profile — a space where I'm growing and creating, one line of code at a time.* 🌿
 </p>
 
@@ -21,7 +21,7 @@
 ---
 
 ### 🌼 What I'm Working On  
-‣ 🛠️ Building ** PORTFOLIO, LANDING PAGE**  
+‣ 🛠️ Building **PORTFOLIO, LANDING PAGE**  
 ‣ ✍️ Practicing **WEB DEVELOPMENT**  
 ‣ 📚 Exploring **UNITY**
 
@@ -41,5 +41,5 @@
 
 ---
 
-<p align="center">🍃 *"Growth takes time — and that's beautiful."* 🍃</p>
-<p align="center">Made with ☁️ and 🍵 by [Your Name] 🌷</p>
+<p align="center" style="color: #A0C4FF;">🍃 *"Growth takes time — and that's beautiful."* 🍃</p>
+<p align="center" style="color: #A0C4FF;">Made with ☁️ and 🍵 by [Your Name] 🌷</p>
