@@ -20,14 +20,14 @@
 
 ---
 
-### 🌼 What I'm Working On  
+### 🌸 What I'm Working On  
 ‣  Building **PORTFOLIO, LANDING PAGE**  
 ‣  Practicing **WEB DEVELOPMENT**  
 ‣  Exploring **UNITY**
 
 ---
 
-### 🌟 GitHub Stats  
+### GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=pastel" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=pastel" alt="GitHub Streak" />
@@ -36,8 +36,8 @@
 ---
 
 ### 🌸 Connect with Me   
-˗ˏˋ 🌼 [Portfolio](https://your-portfolio-link.com) ˎˊ˗  
-˗ˏˋ 🌼 [Email](vtv.villalobos@gmail.com) ˎˊ˗  
+˗ˏˋ 🌷 [Portfolio](https://your-portfolio-link.com) ˎˊ˗  
+˗ˏˋ 🌷 [Email](vtv.villalobos@gmail.com) ˎˊ˗  
 
 ---
 
