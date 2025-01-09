@@ -42,4 +42,4 @@
 ---
 
 <p align="center" style="color: #A0C4FF;">🍃 *"Growth takes time — and that's beautiful."* 🍃</p>
-<p align="center" style="color: #A0C4FF;">Made with ☁️ and 🍵 by [Your Name] 🌷</p>
+<p align="center" style="color: #A0C4FF;">Made with ☁️ and 🍵 by Vivi 🌷</p>
