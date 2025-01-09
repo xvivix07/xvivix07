@@ -14,9 +14,9 @@
 ---
 
 ### 🌸 Skills in Bloom  
-˗ˏˋ ✧ **Languages:** PYTHON, CSS ˎˊ˗  
-˗ˏˋ ✧ **Tools:** VS CODE, GITHUB ˎˊ˗  
-˗ˏˋ ✧ **Currently Learning:** HTML ˎˊ˗  
+˗ˏˋ ✧ **Languages:** PYTHON, HTML ˎˊ˗  
+˗ˏˋ ✧ **Tools:** VS CODE, GITHUB, GIT, GIT LFS ˎˊ˗  
+˗ˏˋ ✧ **Currently Learning:** CSS ˎˊ˗  
 
 ---
 
@@ -27,19 +27,5 @@
 
 ---
 
-### GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=pastel" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=pastel" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌸 Connect with Me   
-˗ˏˋ 🌷 [Portfolio](https://your-portfolio-link.com) ˎˊ˗  
-˗ˏˋ 🌷 [Email](vtv.villalobos@gmail.com) ˎˊ˗  
-
----
-
-<p align="center" style="color: #A0C4FF;">🍃 *"Growth takes time — and that's beautiful."* 🍃</p>
-<p align="center" style="color: #A0C4FF;">Made with ☁️ and 🍵 by Vivi 🌷</p>
+<p align="center" style="color: #A0C4FF;">🍃 "In the process of growing" 🍃</p>
+<p align="center" style="color: #A0C4FF;">Made by Vivi 🌷</p>
